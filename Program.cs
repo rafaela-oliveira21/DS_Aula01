@@ -34,7 +34,7 @@ namespace Aula01Variaveis
     
 
     
-
+            //Método
 
             public static void VerificarAulaEtec()
         {
